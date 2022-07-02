@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+##Make 10s
 
-You can use the [editor on GitHub](https://github.com/Yasashi1987/Make10s-c/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+感谢你使用Make10s。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+关于广告 本应用程序使用AdMob（谷歌公司）作为广告发布工具，AdMob可能自动获取用户的信息。 请参考以下链接，了解广告服务提供者的应用隐私政策，了解将获得的信息、使用目的、向第三方提供的信息等。
 
-### Markdown
+谷歌广告政策 https://policies.google.com/technologies/ads?hl=ja
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+使用分析 本应用程序使用Firebase（谷歌公司）作为工具来收集应用程序的使用数据，以便在未来的开发中参考，Firebase可能会自动获取用户的信息。 请参考以下谷歌隐私政策链接，了解将获得的信息、使用目的和提供给第三方的信息。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yasashi1987/Make10s-c/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+谷歌隐私政策 https://policies.google.com/privacy?hl=ja
